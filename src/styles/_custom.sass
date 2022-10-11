@@ -1,14 +1,11 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: rotation 20s infinite linear
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    top: 2rem
+    right: 0.6rem
+    width: 87%
+    z-index: -1
 
 
 @keyframes float1
@@ -17,3 +14,427 @@
 
   100%
     transform: translateY(0px)
+
+@-webkit-keyframes rotation 
+  from 
+    -webkit-transform: rotate(0deg)  
+  to 
+    -webkit-transform: rotate(359deg)
+
+.banner-principal__img
+  z-index: 1
+
+.cajon.color-acento-contenido 
+    background-color: #e2dafc
+
+.cajon.color-primario 
+    background-color: #fff8e3
+
+.tema1-img-1
+    margin: -15px
+    width: 120%
+    max-width: 130%
+@media (max-width:500px)
+    .tema1-img-1
+      margin: 15px !important
+      width: 50% !important
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 1rem
+  & > *
+    position: relative
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 170px
+    width: calc( 80% - 60px)
+    height: 100%
+    background-color: #fff8e3
+@media (max-width:500px)
+  .crd--avatarHorizontal
+    position: relative
+    padding-right: 1rem
+    & > *
+      position: relative
+    p 
+      margin-bottom: 0
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0
+      right: 0
+      width: calc( 100% - -10px)
+      height: 100%
+      background-color: #fff8e3 
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--avatarHorizontal-1
+  position: relative
+  padding-right: 1rem
+  & > *
+    position: relative
+  h5 
+    color: #E8E2FD
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    border-radius: 15px
+    background-color: #E8E2FD
+@media (max-width:500px)
+  .crd--avatarHorizontal-1
+    position: relative
+    padding-right: 1rem
+    & > *
+      position: relative
+    h5 
+      color: #fedc72
+    p 
+      margin-bottom: 0
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0
+      right: 0
+      width: calc( 100% - -10px)
+      height: 100%
+      background-color: #E8E2FD
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--avatarHorizontal-2
+  position: relative
+  padding-right: 1rem
+  & > *
+    position: relative
+  h5 
+    color: #E8E2FD
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 25px
+    right: 0px
+    width: calc( 100% - 0px)
+    height: 85%
+    background-color: #FFF8E3
+    border-radius: 15px
+@media (max-width:500px)
+  .crd--avatarHorizontal-2
+    position: relative
+    padding-right: 1rem
+    & > *
+      position: relative
+    h5 
+      color: #fedc72
+    p 
+      margin-bottom: 0
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0
+      right: 12
+      width: calc( 100% - -10px)
+      height: 100%
+      background-color: #E8E2FDs
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--avatarHorizontal-3
+  position: relative
+  padding-right: 1rem
+  & > *
+    position: relative
+  h5 
+    color: #fedc72
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    border-radius: 15px
+    background-color: #fff8e3
+@media (max-width:500px)
+  .crd--avatarHorizontal-3
+    position: relative
+    padding-right: 1rem
+    & > *
+      position: relative
+    h5 
+      color: #fedc72
+    p 
+      margin-bottom: 0
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0
+      right: 0
+      width: calc( 100% - -10px)
+      height: 100%
+      background-color: #fff8e3 
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.color-morado:before
+  background-color: #e8e2fd
+
+  
+  //////bloque texto
+
+.bloque-texto-b
+    position: relative
+
+.bloque-texto-b:before
+    top: 49%
+    bottom: 10px
+    left: 0%
+    right: 39%
+    background-color: #E8E2FD !important
+
+.bloque-texto-b1
+  position: relative
+  &::before  
+    top: 0%
+    bottom: 150px
+    left: 0%
+    right: -30%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #F2F4F9 !important
+
+  &__texto 
+      position: relative
+
+.bloque-texto-b2
+  position: relative
+  &::before  
+    top: 48%
+    bottom: 0px
+    left: -25%
+    right: 0%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #FFF6DB !important
+
+  &__texto 
+      position: relative
+
+.bloque-texto-b3
+  position: relative
+  &::before  
+    top: 0%
+    bottom: 110px
+    left: 0%
+    right: 40%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #FFF6DB !important
+
+  &__texto 
+      position: relative
+
+.bloque-texto-b4
+  position: relative
+  &::before  
+    top: 45%
+    bottom: 10px
+    left: 40%
+    right: 0%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #FFEDD2 !important
+
+  &__texto 
+      position: relative
+
+.bloque-texto-b5
+  position: relative
+  &::before  
+    top: 60%
+    bottom: 0px
+    left: -5%
+    right: 0%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #E5E1F1 !important
+
+  &__texto 
+      position: relative
+
+
+.txt--morado
+  color: #8c6df2
+
+
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #F6F6F6
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #FFF6DB
+
+.display-flex
+    display: flex
+
+.tabla-a th 
+    border: 3px solid 
+    border-color: #fdb74d
+
+.tabla-a table 
+    min-width: 350px
+  
+.tabla-a td
+  border: 3px solid 
+  border-color:#fdb74d
+
+.tarjeta--naranja
+  background-color: #FDB74D
+
+.tarjeta--amarilla
+  background-color: #FEE9AA
+
+.display-flex
+  display: flex
+
+
+.img4-tema2
+  position: relative
+  z-index: 1
+
+  .img12-tema-2
+    width: 70%
+    left: 2rem
+    position: relative
+
+.posicion-boton
+    left: -25px
+    position: relative
+
+.img5-tema2
+    width: 80%
+    left: -50%
+    top: 20px
+    position: relative
+@media (max-width:500px)
+  .img5-tema2
+    width: 20%
+    left: 39%
+    top: -3px
+
+.img8-tema-2
+    width: 120%
+    max-width: 150%
+    position: relative
+@media (max-width:500px)
+  .img8-tema-2
+    width: 50%
+    left: 10%
+
+.crd--first:before 
+    border-top-left-radius: 30px
+    border-top-right-radius: 30px
+    background-color: #fff5e5
+.crd--last:before 
+    border-bottom-left-radius: 30px
+    border-bottom-right-radius: 30px
+    background-color: #f3f9ff
+
+.crd--medio-1:before
+    background-color: #eee9fd
+
+.crd--medio-2:before
+    background-color: #d2e1f1
+
+.img2-tema3
+
+@media (max-width:500px)
+  .img2-tema3
+    position: relative
+    width: 35%
+    left: 29%
+
+.img6-tema3
+    position: relative
+    width: 100%
+    top: -95rem
+    right: 53%
+
+.hr--line
+  margin: 0.5rem 0
+  width: 100%
+  height: 1px  
+  background-color: #B0C0D2
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+  
+.txt--violeta
+  color: #8c6df2
+
+.tarjeta-gris-oscuro
+    background-color: #727997
+
+.tarjeta-amarilla
+    background-color: #fffaea
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.img11-tema3
+    position: relative
+    margin: -24px
+    top: 23px
+    width: 116%
+    max-width: 150%
+@media (max-width:500px)
+  .img11-tema3
+      width: 100%
+      margin: 0px
+      top: 0px
+
+.img5-tema4
+    width: 50%
+    left: 30%
+    position: relative
+
+.pasos-b__header__item--before .pasos-b__header__item__dot
+    border-color: #fdb74d
+    background-color: #fdb74d
+
+.pasos-b__header__item--active .pasos-b__header__item__line-container::before
+    background-color: #fdb74d
+.pasos-b__header__item--before .pasos-b__header__item__line-container:after 
+    background-color: #fdb74d
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before
+    background-color: #fdb74d
+
+.color-titulo
+  border-left-color: #FF6B00 !important
+
+.titulo-sexto
+  border-left: 8px solid
