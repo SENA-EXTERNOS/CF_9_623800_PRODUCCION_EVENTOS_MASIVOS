@@ -128,7 +128,7 @@
     right: 0px
     width: calc( 100% - 0px)
     height: 85%
-    background-color: #FFF8E3
+    background-color: #fff8e3
     border-radius: 15px
 @media (max-width:500px)
   .crd--avatarHorizontal-2
@@ -193,6 +193,84 @@
 .color-morado:before
   background-color: #e8e2fd
 
+.crd--avatarHorizontal-4
+  position: relative
+  padding-right: 1rem
+  & > *
+    position: relative
+  h5 
+    color: #E8E2FD
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 25px
+    right: 0px
+    width: calc( 100% - 0px)
+    height: 85%
+    background-color: #E8E2FD
+    border-radius: 15px
+@media (max-width:500px)
+  .crd--avatarHorizontal-4
+    position: relative
+    padding-right: 1rem
+    & > *
+      position: relative
+    h5 
+      color: #fedc72
+    p 
+      margin-bottom: 0
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0
+      right: 12
+      width: calc( 100% - -10px)
+      height: 100%
+      background-color: #E8E2FDs
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--avatarHorizontal-5
+  position: relative
+  padding-right: 1rem
+  & > *
+    position: relative
+  h5 
+    color: #fedc72
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    border-radius: 15px
+    background-color: #fff8e3
+@media (max-width:500px)
+  .crd--avatarHorizontal-5
+    position: relative
+    padding-right: 1rem
+    & > *
+      position: relative
+    h5 
+      color: #fedc72
+    p 
+      margin-bottom: 0
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0
+      right: 0
+      width: calc( 100% - -10px)
+      height: 100%
+      background-color: #fff8e3 
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
   
   //////bloque texto
 
@@ -200,10 +278,10 @@
     position: relative
 
 .bloque-texto-b:before
-    top: 49%
+    top: 40%
     bottom: 10px
     left: 0%
-    right: 39%
+    right: 50%
     background-color: #E8E2FD !important
 
 .bloque-texto-b1
@@ -438,3 +516,7 @@
 
 .titulo-sexto
   border-left: 8px solid
+
+.anexo * 
+    line-height: 1.2
+    color: #673AB7

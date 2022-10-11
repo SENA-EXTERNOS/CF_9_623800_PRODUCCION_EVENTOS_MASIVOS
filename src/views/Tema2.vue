@@ -75,7 +75,7 @@
         .col-lg-4
           .bloque-texto-b1.color-secundario.p-1
             .bloque-texto-b1__texto
-              p La hoja de datos o ficha técnica es única para cada producto y se utiliza para exp licar todos los detalles valiosos. La idea es que, estudiando el perfil del producto o servicio, se pueda aprender exactamente cómo funciona y sus características más importantes. Aunque no es una herramienta de marketing, muchas personas revisan las especificaciones del producto antes de comprarlo, pero para hacerlo, debe entenderse bien y organizarse.
+              p #[strong La hoja de datos o ficha técnica es única para cada producto y se utiliza para explicar todos los detalles valiosos.] La idea es que, estudiando el perfil del producto o servicio, se pueda aprender exactamente cómo funciona y sus características más importantes. Aunque no es una herramienta de marketing, muchas personas revisan las especificaciones del producto antes de comprarlo, pero para hacerlo, debe entenderse bien y organizarse.
               p.mt-3 Esto significa que, si se desea crear una hoja de datos, se debe saber claramente qué tipo de personas leerán el documento y qué harán con él. De lo contrario, se corre el riesgo de escribir información que no le interesa al consumidor o proveedor.
         .col-lg-4
           figure
@@ -105,7 +105,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/img6.png', alt='Texto que describa la imagen').img5-tema2
               .col-lg-10
-                p Presentar al público la información adecuada sobre los productos en una ficha técnica, tiene un amplio número de ventajas, entre las que se encuentran: mejorar la experiencia de compra de los usuarios y generar fidelidad con la marca.
+                p En este punto se exponen algunos consejos para que la ficha técnica cumpla con el propósito de dar información valiosa a los usuarios, y les permita conocer todo lo que necesitan para tomar una decisión de compra.
         
             .hr--line
             .row
@@ -114,7 +114,7 @@
                   img(src='@/assets/curso/temas/tema2/img7.png', alt='Texto que describa la imagen').img5-tema2
               .col-lg-10
             
-                p Presentar al público la información adecuada sobre los productos en una ficha técnica, tiene un amplio número de ventajas, entre las que se encuentran: mejorar la experiencia de compra de los usuarios y generar fidelidad con la marca.
+                pEn este punto se exponen algunos consejos para que la ficha técnica cumpla con el propósito de dar información valiosa a los usuarios, y les permita conocer todo lo que necesitan para tomar una decisión de compra.
             .hr--line
           .col-lg-3.mt-5(data-aos="fade-left")
             figure
@@ -130,7 +130,7 @@
 
     .row.justify-content-center.mt-5
       .col-lg-10
-        .crd.crd--avatarHorizontal-2.p-2
+        .crd.crd--avatarHorizontal-4.p-2
           .row.align-items-center
             .col
               p Se debe tener en cuenta que, dependiendo del sector al que pertenezca la marca, la utilidad de la ficha técnica puede ser mayor o menor.  #[strong Se debe tener en cuenta que usualmente las fichas técnicas son cortas, y no es por casualidad, sino por razones prácticas.] La mayoría de la gente ni siquiera sabe lo que es una hoja de datos, así que se tiene la dificultad añadida de escribir para alguien que no necesariamente maneja este documento.

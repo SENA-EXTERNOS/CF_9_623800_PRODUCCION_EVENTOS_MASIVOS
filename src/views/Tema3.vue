@@ -34,7 +34,7 @@
         .avatar
           figure
             img(src="@/assets/curso/temas/tema3/img6.png", alt="alt").img6-tema3
-        h3.mb-4.text-center.txt--purpura Elementos determinantes para el análisis - CAC 
+        h3.mb-4.text-center.txt--purpura Para definir los objetivos del evento hay que seguir una sencilla estrategia de cuatro puntos: 
         .crd.crd--avatarHorizontal.crd--first.p-3
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
@@ -105,7 +105,7 @@
             | #[strong Rendición de cuentas exhaustiva a las partes interesadas.]
 
         .cajon.tarjeta-gris-oscuro.texto-blanco.p-4
-          p Existen diferentes normas en las cuales se definen los requisitos para la implementación de un sistema de gestión de eventos incluyendo el tema sostenible, lo que Implica ajustar e implementar los procesos correspondientes para garantizar unas condiciones adecuadas que ofrezcan una buena calidad y prestación de servicios para la realización de eventos.
+          p Existen diferentes normas en las cuales se definen los requisitos para la implementación de un sistema de gestión de eventos incluyendo el tema sostenible, lo que Implica ajustar e implementar los procesos correspondientes para garantizar unas condiciones adecuadas que ofrezcan una #[strong buena calidad y prestación de servicios para la realización de eventos.]
 
     .row
       TabsA.color-acento-contenido.mb-5        
@@ -144,7 +144,7 @@
                 .anexo__icono
                   img(src="@/assets/template/icono-link.png")
                 .anexo__texto
-                  p Anexo. Consideraciones generales de tratamiento clínico del paciente con COVID-19 en el servicio de urgencias 
+                  p #[strong Enlace web.] Para profundizar sobre este importante tema, se invita a consultar el siguiente video donde se encuentra la presentación general de la norma: 
 
       .col-lg-3
         figure(data-aos="fade-left")

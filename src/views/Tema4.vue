@@ -9,7 +9,7 @@
 
     .row.justify-content-center.mt-5
           .col-lg-10
-            .crd.crd--avatarHorizontal-2.py-3
+            .crd.crd--avatarHorizontal-5.py-3
               .row.align-items-center
                 .col-lg-auto(data-aos="fade-right")
                   figure
