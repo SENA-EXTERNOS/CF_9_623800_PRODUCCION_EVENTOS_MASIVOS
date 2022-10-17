@@ -71,7 +71,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img5.png', alt='Texto que describa la imagen')
           .col-md-6
-            p.mt-5 La implementación en la integración de sistemas y la gestión de las últimas soluciones audiovisuales crea una mejor experiencia visual y auditiva para todos los usuarios. Se utilizan diversos productos para ayudar a conseguir la mejor comunicación en lugares pequeños y grandes, garantizando la integración de las tecnologías para lograr la máxima eficiencia y productividad.   
+            p.mt-5 Transmisión de vídeo en directo o grabado de un evento a través de Internet. Creación de una producción profesional en directo utilizando #[i software] de #[i streaming] para transmitir en vivo eventos virtuales en la plataforma preferida del cliente o en proveedores de #[i streaming] como Facebook Live, Periscope, Twitch, YouTube y muchos más, para llegar a una audiencia global.   
 
     .row.justify-content-center.mt-5
       .col-lg-10
