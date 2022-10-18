@@ -98,22 +98,22 @@
             ul.lista-ul.mb-4
               li 
                 i.fas.fa-angle-right.txt--morado
-                | Reservar en los alrededores para los asistentes e incluir el costo en el precio de las entradas, u optar porque los asistentes paguen cuando requieran el servicio.
+                p Reservar en los alrededores para los asistentes e incluir el costo en el precio de las entradas, u optar porque los asistentes paguen cuando requieran el servicio.
               li 
                 i.fas.fa-angle-right.txt--morado
-                | Negociar con las diferentes plataformas de transporte privado, los descuentos que se ofrecen para los eventos.
+                p Negociar con las diferentes plataformas de transporte privado, los descuentos que se ofrecen para los eventos.
               li 
                 i.fas.fa-angle-right.txt--morado
-                | Puede negociar con ellos para establecerlo y distribuir el código promocional a tus asistentes.
+                p Puede negociar con ellos para establecerlo y distribuir el código promocional a tus asistentes.
               li 
                 i.fas.fa-angle-right.txt--morado
-                | Ofrecer a los asistentes una forma de compartir un viaje o un taxi entre ellos. 
+                p Ofrecer a los asistentes una forma de compartir un viaje o un taxi entre ellos. 
               li 
                 i.fas.fa-angle-right.txt--morado
-                | Brindar un servicio de parqueadero (valet parking) para el evento, incluso si el lugar de celebración no lo ofrece, puede resultar esencial si el evento es de alto nivel.
+                p Brindar un servicio de parqueadero (#[i valet parking]) para el evento, incluso si el lugar de celebración no lo ofrece, puede resultar esencial si el evento es de alto nivel.
                   
           .row(numero="3" titulo="Servicios e instalaciones").p-3
-            p Se debe disponer de una cocina y ofrecer un servicio de catering para el evento; los lugares que no disponen de cocina pueden tener una asociación con un proveedor de alimentos, por lo que es conveniente que comprobar la comida con antelación. Es importante asegurarse de elegir un lugar que sirva buena comida o que permita traer a proveedores de comida externos, para que la experiencia de los asistentes sea la mejor. Igualmente se debe contar con mesas, sillas y mantelería que se puedan utilizar, sin olvidar el equipo de montaje y limpieza.
+            p Se debe disponer de una cocina y ofrecer un servicio de #[i catering] para el evento; los lugares que no disponen de cocina pueden tener una asociación con un proveedor de alimentos, por lo que es conveniente que comprobar la comida con antelación. Es importante asegurarse de elegir un lugar que sirva buena comida o que permita traer a proveedores de comida externos, para que la experiencia de los asistentes sea la mejor. Igualmente se debe contar con mesas, sillas y mantelería que se puedan utilizar, sin olvidar el equipo de montaje y limpieza.
 
           .row(numero="4" titulo="Diseño").p-3
             p Aunque el lugar de celebración se encuentre en las primeras fases del proceso de planificación del evento, es conveniente tener una idea aproximada del tipo de actividades que se van a realizar, los servicios que se van a necesitar y las necesidades del equipo y de los asistentes. Mientras se reduce la selección, resultaría de gran utilidad conseguir un plano ilustrado de cada lugar y recorrer todo el espacio, tomándose nota de cosas importantes como dónde están los enchufes y dónde está o puede estar el equipo audiovisual, sonidos y demás.
@@ -139,7 +139,7 @@
               p Cuando se organiza el mobiliario, se debe pensar en cómo se comunicará la gente entre sí cuando utilice esa disposición de asientos. Por ejemplo, si se planea un evento al aire libre, las barras y las sillas facilitarán
             .col-lg-6
               p el movimiento constante de los invitados detrás de ellas, y las pequeñas islas con asientos permitirán conversaciones más íntimas. Puede ser más fácil de lo que se esperaba con la ayuda de un plan de ubicación de mobiliario.
-              p El mobiliario de diseño para eventos, el alquiler de muebles, los textiles, la decoración y la tecnología del catering de muebles ahorran tiempo y dinero en el proceso de preparación y decoración de un evento de cualquier escala. El alquiler es una solución rápida, cómoda y asequible para preparar un evento corporativo, el lugar de celebración y el tema del evento. Si no se necesita comprar muebles, se puede simplemente alquilar y devolverse. No es necesario comprar mesas y sillas, y no hay que preocuparse por su entrega, colocación y diseño. Solo se tiene que ir al sitio que va acorde con el gusto o idea, ver las opciones que se ofrecen y elegir lo que se necesita. Los gestores cualificados se pondrán en contacto para aclarar los detalles.
+              p El mobiliario de diseño para eventos, el alquiler de muebles, los textiles, la decoración y la tecnología del #[i catering] de muebles ahorran tiempo y dinero en el proceso de preparación y decoración de un evento de cualquier escala. El alquiler es una solución rápida, cómoda y asequible para preparar un evento corporativo, el lugar de celebración y el tema del evento. Si no se necesita comprar muebles, se puede simplemente alquilar y devolverse. No es necesario comprar mesas y sillas, y no hay que preocuparse por su entrega, colocación y diseño. Solo se tiene que ir al sitio que va acorde con el gusto o idea, ver las opciones que se ofrecen y elegir lo que se necesita. Los gestores cualificados se pondrán en contacto para aclarar los detalles.
 
 </template>
 

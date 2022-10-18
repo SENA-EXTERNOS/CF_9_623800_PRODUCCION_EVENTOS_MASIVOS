@@ -124,8 +124,8 @@ export default {
       referencia:
         'Unidad Nacional para la Gestión del Riesgo de Desastres. <i>Guía Técnica para la reglamentación local de eventos con aglomeraciones de público.<i> Bogotá, 2018.',
       tipo: 'Manual',
-      descarga:
-        'https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/27735/Guia_aglomeraciones_publico.pdf?sequence=6&isAllowed=y',
+      link:
+        ' https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/27735/Guia_aglomeraciones_publico.pdf?sequence=6&isAllowed=y',
     },
     {
       tema: 'Estándares de calidad y de servicio',
@@ -139,7 +139,7 @@ export default {
       tema: 'Estándares de calidad y de servicio ',
       referencia: 'ISO 20121:2013 Sostenibilidad de eventos',
       tipo: 'Norma',
-      descarga:
+      link:
         'https://www.normas-iso.com/iso-201212013-sostenibilidad-de-eventos/',
     },
     {
@@ -147,14 +147,14 @@ export default {
       referencia:
         'Corporación CICCE. <i>Guía para la implementación de la Norma Técnica Sectorial Colombiana NTS-TS 006-2<i>',
       tipo: 'Norma',
-      descarga:
+      link:
         'https://www.mincit.gov.co/CMSPages/GetFile.aspx?guid=499d6265-6663-4c1d-b4c2-7e0f166be5f5',
     },
     {
       tema: 'Requisiciones',
-      referencia: 'Colombia compra eficiente. Órdenes de compra',
+      referencia: 'Colombia compra eficiente. <i>Órdenes de compra<i>',
       tipo: 'Formato',
-      descarga:
+      link:
         'https://www.colombiacompra.gov.co/tienda-virtual-del-estado-colombiano/ordenes-compra',
     },
   ],
@@ -202,7 +202,7 @@ export default {
     {
       termino: 'Transporte',
       significado:
-        'sistema tecnológico que permite ver y escuchar contenido enviado desde Internet u otra red sin tener que descargar datos al dispositivo desde el que se está viendo y escuchando el archivo.',
+        'sistema de vehículos, como autobuses, trenes, aviones, etc. para ir de un lugar a otro.',
     },
     {
       termino: '<i>Venue<i>',

@@ -107,7 +107,10 @@
         .cajon.tarjeta-gris-oscuro.texto-blanco.p-4
           p Existen diferentes normas en las cuales se definen los requisitos para la implementación de un sistema de gestión de eventos incluyendo el tema sostenible, lo que Implica ajustar e implementar los procesos correspondientes para garantizar unas condiciones adecuadas que ofrezcan una #[strong buena calidad y prestación de servicios para la realización de eventos.]
 
-    .row
+    .row.my-5
+      h4 A continuación, algunas de las más importantes:
+
+    .row.my-5
       TabsA.color-acento-contenido.mb-5        
         .tarjeta.tarjeta-amarilla.p-4(titulo="ISO 20121")
           .row
@@ -116,7 +119,7 @@
                 img(src="@/assets/curso/temas/tema3/img8.png", alt="alt")
             .col-lg-9
               p Los eventos suponen un elevado costo para los recursos, la sociedad y el medio ambiente y a menudo generan importantes residuos. Además de promover un consumo más responsable, la Norma Internacional ISO 20121 se ha desarrollado para aliviar la presión sobre las infraestructuras y los servicios públicos locales, reduciendo el potencial de conflicto en las comunidades donde se celebran los eventos.
-              p Los eventos suponen un elevado costo para los recursos, la sociedad y el medio ambiente y a menudo generan importantes residuos. Además de promover un consumo más responsable, la Norma Internacional ISO 20121 se ha desarrollado para aliviar la presión sobre las infraestructuras y los servicios públicos locales, reduciendo el potencial de conflicto en las comunidades donde se celebran los eventos.
+              p Esta norma ofrece orientación y mejores prácticas para ayudar a gestionar un evento controlando su impacto social, económico y medioambiental. Cada acción cuenta, desde utilizar agua del grifo en lugar de botellas de plástico hasta fomentar el uso del transporte público. Puede que también ayude a reducir los costos innecesarios.
               p #[strong El enfoque flexible de la ISO 20121 significa que puede utilizarse para todo tipo de eventos, desde festivales de música hasta excursiones escolares.] La norma se ha desarrollado con la aportación de muchas partes interesadas, incluidos representantes del sector de los eventos, para que sea práctica y útil. Aborda todas las fases de la cadena de suministro de un evento e incluye directrices de seguimiento y medición.
         .tarjeta.tarjeta-amarilla.p-4(titulo="NTS-TS 006-2")
           .row

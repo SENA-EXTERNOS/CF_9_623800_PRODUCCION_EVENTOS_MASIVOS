@@ -56,7 +56,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img2.png')})`}"
         )
         .bloque-texto-g__texto.p-4(data-aos="fade-left")
-          p #[strong Una ficha técnica se caracteriza por ser tanto informativa como publicitaria.] Desde el punto de vista informativo, contiene consejos útiles sobre el producto, como por ejemplo cómo utilizarlo, de qué está hecho, qué cosas hay que tener en cuenta al utilizar el producto, y su nombre oficial y las especificaciones estándar de la industria. Desde el punto de vista del marketing, puede contener fotos e ilustraciones en color, así como secciones enteras en las que se describen los beneficios que el producto aportará al usuario final.
+          p #[strong Una ficha técnica se caracteriza por ser tanto informativa como publicitaria.] Desde el punto de vista informativo, contiene consejos útiles sobre el producto, como por ejemplo cómo utilizarlo, de qué está hecho, qué cosas hay que tener en cuenta al utilizar el producto, y su nombre oficial y las especificaciones estándar de la industria. Desde el punto de vista del #[i marketing], puede contener fotos e ilustraciones en color, así como secciones enteras en las que se describen los beneficios que el producto aportará al usuario final.
 
     .row.justify-content-center.mt-5
           .col-lg-10
@@ -75,7 +75,7 @@
         .col-lg-4
           .bloque-texto-b1.color-secundario.p-1
             .bloque-texto-b1__texto
-              p #[strong La hoja de datos o ficha técnica es única para cada producto y se utiliza para explicar todos los detalles valiosos.] La idea es que, estudiando el perfil del producto o servicio, se pueda aprender exactamente cómo funciona y sus características más importantes. Aunque no es una herramienta de marketing, muchas personas revisan las especificaciones del producto antes de comprarlo, pero para hacerlo, debe entenderse bien y organizarse.
+              p #[strong La hoja de datos o ficha técnica es única para cada producto y se utiliza para explicar todos los detalles valiosos.] La idea es que, estudiando el perfil del producto o servicio, se pueda aprender exactamente cómo funciona y sus características más importantes. Aunque no es una herramienta de #[i marketing], muchas personas revisan las especificaciones del producto antes de comprarlo, pero para hacerlo, debe entenderse bien y organizarse.
               p.mt-3 Esto significa que, si se desea crear una hoja de datos, se debe saber claramente qué tipo de personas leerán el documento y qué harán con él. De lo contrario, se corre el riesgo de escribir información que no le interesa al consumidor o proveedor.
         .col-lg-4
           figure
@@ -86,6 +86,8 @@
               p La mejor manera de utilizar las hojas de datos es animar a los lectores a aprender más sobre el producto, de modo que puedan leer informes técnicos y comparar el producto con los productos de la competencia. Las hojas de datos también se utilizan para ayudar a los lectores a tomar decisiones más rápidamente.
               p.mt-3 Cualquier definición que pretenda explicar qué es una ficha técnica y para qué sirve, debe indicar la utilidad y uso en las especificaciones de un producto para su comercialización. #[strong Si bien una hoja de datos no es necesaria para las ventas, ayuda a una parte de la audiencia de una empresa a decidir comprar sus productos.]
 
+    .row.my-5
+      h4 Tips de una ficha técnica
 
     .row.justify-content-center.mt-5
       .col-lg-9
@@ -106,22 +108,10 @@
                   img(src='@/assets/curso/temas/tema2/img6.png', alt='Texto que describa la imagen').img5-tema2
               .col-lg-10
                 p En este punto se exponen algunos consejos para que la ficha técnica cumpla con el propósito de dar información valiosa a los usuarios, y les permita conocer todo lo que necesitan para tomar una decisión de compra.
-        
             .hr--line
-            .row
-              .col-lg-2(data-aos="fade-right")
-                figure
-                  img(src='@/assets/curso/temas/tema2/img7.png', alt='Texto que describa la imagen').img5-tema2
-              .col-lg-10
-            
-                pEn este punto se exponen algunos consejos para que la ficha técnica cumpla con el propósito de dar información valiosa a los usuarios, y les permita conocer todo lo que necesitan para tomar una decisión de compra.
-            .hr--line
-          .col-lg-3.mt-5(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/temas/tema2/img8.png', alt='Texto que describa la imagen').img8-tema-2
-              
+           
     .row.my-5
-      p #[strong La idea es que se pueda escribir una hoja de datos para]
+      p #[strong La idea es que se pueda escribir una hoja de datos para:]
 
     .row.my-5(data-aos="fade-right")
       figure
