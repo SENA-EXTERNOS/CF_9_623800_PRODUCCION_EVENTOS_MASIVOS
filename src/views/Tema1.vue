@@ -78,6 +78,10 @@
         .cajon.color-acento-contenido.p-4
           p Hoy en día, la industria de eventos incluye reuniones de todos los tamaños y en diversos sectores de industria, celebridades, grupos políticos, entidades sin ánimo de lucro y en fin diversidad grupos con interés en comercializar sus marcas, construir relaciones comerciales, recaudar fondos, celebrar logros y más. El uso de la tecnología y las ayudas audiovisuales en la multitud es un factor importante en la planificación de eventos a gran escala.
 
+    .row.my-5
+      p En cuanto a las sedes para los eventos, cuando se organiza un evento, hay que tomar muchas decisiones, pero elegir el ‘lugar de celebración y la ubicación’ adecuados es la decisión que más repercutirá en el evento. Todo, desde la fecha del evento, la alineación de los ponentes, las opciones de #[i catering] y la experiencia de los asistentes, depende del lugar del evento y de la ubicación que elija. Aquí se relacionan algunas pautas sobre cuándo tomar la decisión, qué tener en cuenta y cómo hacerlo mejor. 
+      p Sin embargo, la elección del lugar es la decisión que más impacto tiene en el evento. La información de planificación necesaria, como las fechas de los eventos, depende de la ubicación que se elija. Comprensiblemente, tomar esta decisión puede ser un poco complicado, ya que puede ser difícil saber qué buscar al elegir una ubicación. 
+
     .titulo-sexto.color-acento-contenido.my-5
       h5 Figura 1. 
       span de referencia sede de eventos Corferias
