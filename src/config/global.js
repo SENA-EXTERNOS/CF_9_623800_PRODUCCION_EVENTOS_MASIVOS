@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Requerimientos técnicos de<br>productos y servicios para eventos',
+      'Requerimientos técnicos de productos y servicios para eventos',
     descripcionCurso:
       'Los eventos masivos se definen por el gran número de invitados, regularmente los requerimientos para su ejecución son complejos y se hacen mediante una coordinación de múltiples actividades técnicas durante varios días, todos deben compartir el mismo objetivo y orientarse en la misma dirección, cumpliendo con los requerimientos técnicos necesarios para el fin propuesto.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -54,20 +54,6 @@ export default {
         numero: '4',
         titulo: 'Requisiciones',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Tipos de requisiciones ',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Técnicas de elaboración ',
-            hash: 't_4_2',
-          },
-        ],
       },
     ],
     subMenu: [

@@ -26,15 +26,12 @@
         .col-lg-6
           .bloque-texto-b4.color-secundario.p-4
             .bloque-texto-b4__texto
-              p Sin embargo, en primer lugar, la planificación de eventos exitosos que atraigan a todas las personas requiere una estrategia escalable, tiene en cuenta las mejores prácticas y puede #[strong lograr objetivos clave como la mejora del retorno de la inversión], la recopilación eficaz de datos y el análisis de los delegados, el registro eficiente, la mejora de la presencia de la marca y la responsabilidad de las partes interesadas.
+              p Sin embargo, en primer lugar, la planificación de eventos exitosos que atraigan a todas las personas, requiere una estrategia escalable, tiene en cuenta las mejores prácticas y puede lograr objetivos clave, como la mejora del retorno de la inversión, la recopilación eficaz de datos, el análisis de los delegados, el registro eficiente, la mejora de la presencia de la marca y la responsabilidad de las partes interesadas.
  
 
     .row.justify-content-center.mt-5
       .col-lg-10
-        .avatar
-          figure
-            img(src="@/assets/curso/temas/tema3/img6.png", alt="alt").img6-tema3
-        h3.mb-4.text-center.txt--purpura Para definir los objetivos del evento hay que seguir una sencilla estrategia de cuatro puntos: 
+        h3.mb-4.text-center.txt--purpura Preguntas claves para la gestión exitosa del evento en 4 puntos:  
         .crd.crd--avatarHorizontal.crd--first.p-3
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
@@ -42,31 +39,47 @@
                 img(src="@/assets/curso/temas/tema3/img2.png", alt="alt").img2-tema3
             .col-lg-7.py-2
               h5 Identificar el público
-              p ¿Quién es el público objetivo? ¿El evento busca atraer a nuevos clientes o captar a los clientes existentes o a los prospectos calificados? ¿Se trata de una sesión de formación y agradecimiento o de empleados internos y cuántos asistentes se esperan?
+              p ¿Quién es el público objetivo? 
+              p ¿El evento busca atraer a nuevos clientes o captar a los clientes existentes o a los prospectos calificados? 
+              p ¿Se trata de una sesión de formación y agradecimiento o de empleados internos? 
+              p ¿Cuántos asistentes se esperan?
+              p ¿cuántos asistentes se esperan?
         .crd.crd--avatarHorizontal.crd--medio-1.p-3
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
               figure
                 img(src="@/assets/curso/temas/tema3/img3.png", alt="alt").img2-tema3
             .col-lg-7.py-2
-              h5 ¿Cuál es su contenido?
-              p Y lo que es más importante, ¿cuáles son las conclusiones que se pretenden obtener? ¿El contenido del evento tiene que llevar a la gente a inscribirse en algo?, o ¿debe inspirar, motivar o educar a los delegados sobre productos y servicios específicos?
+              h5 Objetivo del evento
+              p ¿Cuál es su contenido?
+              p ¿Cuáles son las conclusiones que se pretenden obtener? 
+              p ¿El contenido del evento debe llevar a la gente a hacer que?
+              p ¿Debe inspirar, motivar o educar a los delegados sobre productos y servicios específicos?
+
         .crd.crd--avatarHorizontal.crd--medio-2.p-3
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
               figure
                 img(src="@/assets/curso/temas/tema3/img4.png", alt="alt").img2-tema3
             .col-lg-7.py-2
-              h5 ¿Por qué organiza el acto?
-              p ¿Cómo se ajusta el acto a los objetivos de su organización? ¿Cuáles son los objetivos a corto y largo plazo del acto? ¿Necesita generar clientes potenciales? ¿Establecer la credibilidad del sector? ¿Recompensar a los empleados o forjar nuevas asociaciones empresariales? Todo evento debe tener un objetivo claro desde el principio.
+              h5 Motivación 
+              p ¿Por qué organiza el acto? 
+              p ¿Cómo se ajusta el acto a los objetivos de su organización? ¿Cuáles son los objetivos a corto y largo plazo del acto? ¿Necesita generar clientes potenciales? 
+              p ¿Establecer la credibilidad del sector? 
+              p ¿Recompensar a los empleados o forjar nuevas asociaciones empresariales? 
+
         .crd.crd--avatarHorizontal.crd--last.p-3
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
               figure
                 img(src="@/assets/curso/temas/tema3/img5.png", alt="alt").img2-tema3
             .col-lg-7.py-2
-              h5 ¿Sus objetivos son medibles?
-              p A menos que pueda medir sus objetivos, no podrá determinar el impacto de su evento. ¿Cuántos clientes potenciales ha generado? ¿Ha realizado un análisis de costos y beneficios?, en caso afirmativo, ¿qué parámetros utiliza para medir la rentabilidad de su evento?
+              h5 Medición de objetivo
+              p ¿Los objetivos definidos son medibles? 
+              p ¿Cuántos clientes potenciales ha generado? 
+              p ¿Ha realizado un análisis de costos y beneficios?
+              p ¿Qué parámetros utiliza para medir la rentabilidad de su evento?
+
 
     .row.justify-content-center.mt-5
       .col-lg-10
@@ -127,7 +140,7 @@
               figure
                 img(src="@/assets/curso/temas/tema3/img9.png", alt="alt")
             .col-lg-9
-              p De acuerdo con la norma técnica de la industria colombiana #[strong esta norma está diseñada para guiar a los talentos con respecto a eventos, congresos, exposiciones y salas de congresos, prácticas integradoras.] Conduce al cumplimiento de los requisitos ambientales, sociales, culturales y económicos relacionados con el desarrollo sostenible.
+              p De acuerdo con la norma técnica de la industria colombiana esta norma está diseñada para guiar a los talentos con respecto a eventos, congresos, exposiciones y salas de congresos, prácticas integradoras. Conduce al cumplimiento de los requisitos ambientales, sociales, culturales y económicos relacionados con el desarrollo sostenible.
               p Es una herramienta de aprendizaje que incluye, ejemplos, evaluación y recomendaciones que facilitarán la integración de requisitos ambientales, sociales, culturales y económicos en toda empresa de eventos, independientemente de su tamaño o nivel de calificación.
 
         .tarjeta.tarjeta-amarilla.p-4(titulo="NTS-TS 006-1")
