@@ -21,7 +21,7 @@
     .row.justify-content-center.mt-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4
-          p.text-center Lo invitamos a ver el siguiente video para que tenga una idea general de la temática que se abordará y le deseamos éxitos en su proceso de aprendizaje. ¡Ánimo!.
+          p.text-center Lo invitamos a ver el siguiente video para que tenga una idea general de la temática que se abordará y le deseamos éxitos en su proceso de aprendizaje. ¡Ánimo!
 
     .row.mt-5
       figure

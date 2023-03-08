@@ -25,7 +25,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 2
           br
-          i Imagen construcción del experto. 
+          i  Ejemplo ficha técnica. 
         .tabla-a.color-secundario.mt-5
           table
             thead

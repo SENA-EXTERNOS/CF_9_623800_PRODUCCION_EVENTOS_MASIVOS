@@ -65,7 +65,7 @@
                 i.fas.fa-angle-right.txt--morado
                 |  Filmación y grabación de vídeo.
 
-      .py-3.py-md-4(titulo="Webcast y <i>streaming</i> en directo")
+      .py-3.py-md-4(titulo="<i>Webcast</i> y <i>streaming</i> en directo")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
