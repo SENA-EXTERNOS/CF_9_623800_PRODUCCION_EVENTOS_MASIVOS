@@ -156,7 +156,7 @@ export default {
         'percepción de satisfacción de cómo un producto se ajusta a requerimientos del cliente de acuerdo con un criterio específico cumpliendo con un requisito.',
     },
     {
-      termino: 'Catering',
+      termino: '<i>Catering</i>',
       significado:
         'es la actividad de proporcionar comida y bebida a un gran número de personas.',
     },

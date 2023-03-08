@@ -3,12 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-sexto.color-secundario.my-5.color-titulo
-      h2 Producción de eventos masivos 
-      span Síntesis: Requerimientos técnicos de productos y servicios para eventos
-
-    .row
-      p A continuación, se presenta el diagrama que representa el resumen de las temáticas que están desarrolladas en el componente formativo:
+    p.mb-5 A continuación, se presenta el diagrama que representa el resumen de las temáticas que están desarrolladas en el componente formativo:  
 
     .row.justify-content-center
       .col-lg-10.mb-5

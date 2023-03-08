@@ -13,7 +13,7 @@
           .row.align-items-center
             .col-lg-auto(data-aos="fade-right")
               figure
-                img(src="@/assets/curso/temas/tema3/img1.png", alt="alt").tema1-img-1
+                img.img-a.img-t(src="@/assets/curso/temas/tema3/img1.png", alt="alt")
             .col
               p #[strong El mundo en el que opera el organizador de eventos está cambiando a un ritmo acelerado.] La sociedad actual es cada vez más móvil y digitalizada, y las expectativas de los delegados han cambiado en consecuencia. Tanto si se trata de un taller de formación interna para empleados, como de una convención para ejecutivos o de un seminario corporativo o feria comercial a gran escala, los asistentes exigen experiencias cada vez más personalizadas.
 
@@ -36,19 +36,19 @@
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
               figure
-                img(src="@/assets/curso/temas/tema3/img2.png", alt="alt").img2-tema3
+                img.img-a.img-t(src="@/assets/curso/temas/tema3/img2.png", alt="alt").img2-tema3
             .col-lg-7.py-2
               h5 Identificar el público
               p ¿Quién es el público objetivo? 
               p ¿El evento busca atraer a nuevos clientes o captar a los clientes existentes o a los prospectos calificados? 
               p ¿Se trata de una sesión de formación y agradecimiento o de empleados internos? 
               p ¿Cuántos asistentes se esperan?
-              p ¿cuántos asistentes se esperan?
+
         .crd.crd--avatarHorizontal.crd--medio-1.p-3
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
               figure
-                img(src="@/assets/curso/temas/tema3/img3.png", alt="alt").img2-tema3
+                img.img-a.img-t(src="@/assets/curso/temas/tema3/img3.png", alt="alt").img2-tema3
             .col-lg-7.py-2
               h5 Objetivo del evento
               p ¿Cuál es su contenido?
@@ -60,7 +60,7 @@
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
               figure
-                img(src="@/assets/curso/temas/tema3/img4.png", alt="alt").img2-tema3
+                img.img-a.img-t(src="@/assets/curso/temas/tema3/img4.png", alt="alt").img2-tema3
             .col-lg-7.py-2
               h5 Motivación 
               p ¿Por qué organiza el acto? 
@@ -72,7 +72,7 @@
           .row.align-items-center
             .col-lg-2(data-aos="fade-right")
               figure
-                img(src="@/assets/curso/temas/tema3/img5.png", alt="alt").img2-tema3
+                img.img-a.img-t(src="@/assets/curso/temas/tema3/img5.png", alt="alt").img2-tema3
             .col-lg-7.py-2
               h5 Medición de objetivo
               p ¿Los objetivos definidos son medibles? 
@@ -88,7 +88,7 @@
     .row.justify-content-center.py-5
       .col-lg-6
         figure
-          img(src="@/assets/curso/temas/tema3/img7.png", alt="alt")
+          img.img-a.img-t(src="@/assets/curso/temas/tema3/img7.png", alt="alt")
 
       .col-lg-6.mt-4
         ul.lista-ul.mb-4
@@ -129,7 +129,7 @@
           .row
             .col-lg-3
               figure
-                img(src="@/assets/curso/temas/tema3/img8.png", alt="alt")
+                img.img-a.img-t(src="@/assets/curso/temas/tema3/img8.png", alt="alt")
             .col-lg-9
               p Los eventos suponen un elevado costo para los recursos, la sociedad y el medio ambiente y a menudo generan importantes residuos. Además de promover un consumo más responsable, la Norma Internacional ISO 20121 se ha desarrollado para aliviar la presión sobre las infraestructuras y los servicios públicos locales, reduciendo el potencial de conflicto en las comunidades donde se celebran los eventos.
               p Esta norma ofrece orientación y mejores prácticas para ayudar a gestionar un evento controlando su impacto social, económico y medioambiental. Cada acción cuenta, desde utilizar agua del grifo en lugar de botellas de plástico hasta fomentar el uso del transporte público. Puede que también ayude a reducir los costos innecesarios.
@@ -138,7 +138,7 @@
           .row
             .col-lg-3
               figure
-                img(src="@/assets/curso/temas/tema3/img9.png", alt="alt")
+                img.img-a.img-t(src="@/assets/curso/temas/tema3/img9.png", alt="alt")
             .col-lg-9
               p De acuerdo con la norma técnica de la industria colombiana esta norma está diseñada para guiar a los talentos con respecto a eventos, congresos, exposiciones y salas de congresos, prácticas integradoras. Conduce al cumplimiento de los requisitos ambientales, sociales, culturales y económicos relacionados con el desarrollo sostenible.
               p Es una herramienta de aprendizaje que incluye, ejemplos, evaluación y recomendaciones que facilitarán la integración de requisitos ambientales, sociales, culturales y económicos en toda empresa de eventos, independientemente de su tamaño o nivel de calificación.
@@ -147,7 +147,7 @@
           .row
             .col-lg-3
               figure
-                img(src="@/assets/curso/temas/tema3/img10.png", alt="alt")
+                img.img-a.img-t(src="@/assets/curso/temas/tema3/img10.png", alt="alt")
             .col-lg-9
               p Esta norma ordena los requisitos para un sistema de gestión para la sostenibilidad ambiental, sociocultural y económica, que deben cumplir los operadores profesionales de congresos, ferias y convenciones, en adelante el OPC y los eventos. Puede utilizarse como referencia para todo tipo de organizaciones que deseen implantar un sistema de gestión de la sostenibilidad en el desarrollo de eventos. 
 
@@ -164,7 +164,7 @@
 
       .col-lg-3
         figure(data-aos="fade-left")
-          img(src="@/assets/curso/temas/tema3/img11.png", alt="alt").img11-tema3
+          img.img-a.img-t(src="@/assets/curso/temas/tema3/img11.png", alt="alt").img11-tema3
 
 
 

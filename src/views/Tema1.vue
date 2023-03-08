@@ -13,7 +13,7 @@
           .row.align-items-center
             .col-lg-auto(data-aos="fade-right")
               figure
-                img(src="@/assets/curso/temas/tema1/img1.png", alt="alt").tema1-img-1
+                img.img-a.img-t(src="@/assets/curso/temas/tema1/img1.png", alt="alt")
             .col
               p La tecnología hoy en día es un factor imprescindible cuando se trata de tener un mayor impacto en los eventos. La necesidad de entregar experiencias diferenciadas que tengan reconocimiento y destacar a los participantes en los diferentes procedimientos de comunicación presencial, hace que la tecnología de eventos sea una variable clave para lograr una gran impresión. En los últimos años, la tecnología de eventos se ha especializado en sacar el máximo provecho de las comunicaciones y del uso de diferentes recursos.
  
@@ -29,7 +29,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen')
+              img.img-a.img-t(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen')
           .col-md-6
             p.mt-5 Con el objetivo de garantizar que los eventos sean ejemplares, se utiliza una amplia gama de equipos adecuados para salones de baile, centros de convenciones, entre otros, con capacidades excepcionales en sonido, vídeo, proyección de datos y  pantalla LED, los cuales desarrollan la excelencia en el control, y satisface los requisitos de los eventos.
       
@@ -37,7 +37,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/img3.png', alt='Texto que describa la imagen')
+              img.img-a.img-t(src='@/assets/curso/temas/tema1/img3.png', alt='Texto que describa la imagen')
           .col-md-6
             p.mt-5 La implementación en la integración de sistemas y la gestión de las últimas soluciones audiovisuales crea una mejor experiencia visual y auditiva para todos los usuarios. Se utilizan diversos productos para ayudar a conseguir la mejor comunicación en lugares pequeños y grandes, garantizando la integración de las tecnologías para lograr la máxima eficiencia y productividad.   
 
@@ -45,7 +45,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/img4.png', alt='Texto que describa la imagen')
+              img.img-a.img-t(src='@/assets/curso/temas/tema1/img4.png', alt='Texto que describa la imagen')
           .col-md-6
             p Desarrollar el contenido creativo y garantizar que el cliente tenga un vídeo de alta calidad para mostrarlo a su público objetivo. Servicios completos de producción de vídeo, desde la preproducción hasta la posproducción.
             ul.lista-ul.mb-4
@@ -65,11 +65,11 @@
                 i.fas.fa-angle-right.txt--morado
                 |  Filmación y grabación de vídeo.
 
-      .py-3.py-md-4(titulo="Webcast y streaming en directo")
+      .py-3.py-md-4(titulo="Webcast y <i>streaming</i> en directo")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/img5.png', alt='Texto que describa la imagen')
+              img.img-a.img-t(src='@/assets/curso/temas/tema1/img5.png', alt='Texto que describa la imagen')
           .col-md-6
             p.mt-5 Transmisión de vídeo en directo o grabado de un evento a través de Internet. Creación de una producción profesional en directo utilizando <i>software</i> de <i>streaming</i> para transmitir en vivo eventos virtuales en la plataforma preferida del cliente o en proveedores de <i>streaming</i> como Facebook Live, Periscope, Twitch, YouTube, entre otros, a modo de llegar a una audiencia global. 
 
@@ -89,7 +89,7 @@
 
     .row(data-aos="fade-right")
       figure
-        img(src='@/assets/curso/temas/tema1/img6.png', alt='Texto que describa la imagen') 
+        img.img-a.img-t(src='@/assets/curso/temas/tema1/img6.png', alt='Texto que describa la imagen') 
         figcaption.mt-3 Corferias.com
     
     .row.justify-content-center(data-aos="fade-left")
@@ -118,7 +118,7 @@
                 p Brindar un servicio de parqueadero (#[i valet parking]) para el evento, incluso si el lugar de celebración no lo ofrece, puede resultar esencial si el evento es de alto nivel.
                   
           .row(numero="3" titulo="Servicios e instalaciones").p-3
-            p Se debe disponer de una cocina y ofrecer un servicio de catering para el evento; los lugares que no disponen de cocina pueden tener una asociación con un proveedor de alimentos, por lo que es conveniente comprobar la comida con antelación. 
+            p Se debe disponer de una cocina y ofrecer un servicio de <i>catering</i> para el evento; los lugares que no disponen de cocina pueden tener una asociación con un proveedor de alimentos, por lo que es conveniente comprobar la comida con antelación. 
 
             p Es importante asegurarse de elegir un lugar que sirva buena comida o que permita traer a proveedores de comida externos, adicional tener en cuenta mesas, sillas, mantelería, aseo, entre otros,   para que la experiencia de los asistentes sea la mejor, todo ello coherente al presupuesto destinado. 
 

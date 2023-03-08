@@ -31,14 +31,19 @@
 .cajon.color-primario 
     background-color: #fff8e3
 
-.tema1-img-1
-    margin: -15px
+
+    margin: -35px
     width: 120%
     max-width: 130%
 @media (max-width:500px)
-    .tema1-img-1
+    
       margin: 15px !important
       width: 50% !important
+
+.j
+  display: flex
+  justify-content: center
+  align-items: center
 
 .crd--avatarHorizontal
   position: relative
@@ -195,43 +200,9 @@
   background-color: #e8e2fd
 
 .crd--avatarHorizontal-4
-  position: relative
-  padding-right: 1rem
-  & > *
-    position: relative
-  h5 
-    color: #E8E2FD
-  p 
-    margin-bottom: 0
-  &::before  
-    position: absolute 
-    content: ''
-    top: 25px
-    right: 0px
-    width: calc( 100% - 0px)
-    height: 85%
-    background-color: #E8E2FD
-    border-radius: 15px
-@media (max-width:500px)
-  .crd--avatarHorizontal-4
-    position: relative
-    padding-right: 1rem
-    & > *
-      position: relative
-    h5 
-      color: #fedc72
-    p 
-      margin-bottom: 0
-    &::before  
-      position: absolute 
-      content: ''
-      top: 0
-      right: 12
-      width: calc( 100% - -10px)
-      height: 100%
-      background-color: #E8E2FDs
-  @media (max-width: 1000px)
-    padding-right: 2rem
+  background-color: #E8E2FD
+  border-radius: 20px
+
 
 .crd--avatarHorizontal-5
   position: relative
@@ -521,3 +492,25 @@
 .anexo * 
     line-height: 1.2
     color: #673AB7
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto    
+
+.tabs-a.color-acento-contenido .tabs-a__tab__selected 
+  color: white !important  
+.tabs-a.color-acento-contenido .tabs-a__tab:hover
+  color: white !important  
+
+.pasos-b__header__item--active .pasos-b__header__item__dot span
+  color: white !important  
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: white !important  
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active
+  font-weight: bold !important  
