@@ -85,7 +85,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Excel - Anexo 2
+                  h4.mb-1 PDF - Anexo 2
                   p.mb-0 Ejemplo orden de compra
                 .col-sm-auto
                   a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/anexos/Anexo_2-5.pdf')" target="_blank").posicion-boton
