@@ -106,14 +106,6 @@ export default {
         'https://www.youtube.com/watch?v=gJFFCFH-EEs&ab_channel=EBCAcademia',
     },
     {
-      tema: 'Ficha técnica de productos y servicios',
-      referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres. <i>Guía Técnica para la reglamentación local de eventos con aglomeraciones de público.<i> Bogotá, 2018.',
-      tipo: 'Manual',
-      link:
-        ' https://repositorio.gestiondelriesgo.gov.co/bitstream/handle/20.500.11762/27735/Guia_aglomeraciones_publico.pdf?sequence=6&isAllowed=y',
-    },
-    {
       tema: 'Estándares de calidad y de servicio',
       referencia:
         'Decreto 277 de 2021. [Alcaldesa Mayor de Bogotá] Reactivación de eventos masivos en Bogotá. Julio 30 de 2021. Corporación CICCE',

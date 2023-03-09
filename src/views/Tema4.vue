@@ -91,7 +91,7 @@
                   a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_2-5.pdf')" target="_blank").posicion-boton
                     span Descargar
                     i.fas.fa-file-download
-    p.mb-5 A continuación podrá identificar una propuesta de flujo flujo de trabajo de la solicitud de compra 
+    p.mb-5 A continuación podrá identificar una propuesta de flujo flujo de trabajo de la solicitud de compra: 
 
     .tarjeta.tarjeta-amarilla.p-5
       PasosB.color-acento-contenido
