@@ -88,7 +88,7 @@
                   h4.mb-1 PDF - Anexo 2
                   p.mb-0 Ejemplo orden de compra
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/anexos/Anexo_2-5.pdf')" target="_blank").posicion-boton
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_2-5.pdf')" target="_blank").posicion-boton
                     span Descargar
                     i.fas.fa-file-download
     p.mb-5 A continuación podrá identificar una propuesta de flujo flujo de trabajo de la solicitud de compra 
