@@ -174,7 +174,7 @@
                   h4.mb-1 PDF - Anexo 1
                   p.mb-0 Ejemplo ficha técnica
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexos/Anexo_1-3.pdf')" target="_blank").posicion-boton
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/anexos/Anexo_1-3.pdf')" target="_blank").posicion-boton
                     span Descargar
                     i.fas.fa-file-download
 
