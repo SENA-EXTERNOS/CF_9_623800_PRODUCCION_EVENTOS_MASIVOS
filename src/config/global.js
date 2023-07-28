@@ -214,7 +214,7 @@ export default {
     {
       referencia:
         'Escriva, Saval y Martínez (Ed.). (2018). Gestión de compras. Mc-Graw-Hill/España.',
-      link: '',
+      link: 'https://www.mheducation.es/bcv/guide/capitulo/8448193601.pdf',
     },
     {
       referencia:

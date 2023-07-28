@@ -71,7 +71,7 @@
             figure
               img.img-a.img-t(src='@/assets/curso/temas/tema1/img5.png', alt='Texto que describa la imagen')
           .col-md-6
-            p.mt-5 Transmisión de vídeo en directo o grabado de un evento a través de Internet. Creación de una producción profesional en directo utilizando <i>software</i> de <i>streaming</i> para transmitir en vivo eventos virtuales en la plataforma preferida del cliente o en proveedores de <i>streaming</i> como Facebook Live, Periscope, Twitch, YouTube, entre otros, a modo de llegar a una audiencia global. 
+            p.mt-5 Transmisión de vídeo en directo o grabado de un evento a través de Internet. Creación de una producción profesional en directo utilizando <i>software</i> de <i>streaming</i> para transmitir en vivo, eventos virtuales en la plataforma preferida del cliente o en proveedores de <i>streaming</i> como Facebook Live, Periscope, Twitch, YouTube, entre otros, a modo de llegar a una audiencia global. 
 
     .row.justify-content-center.mt-5
       .col-lg-10
@@ -131,7 +131,7 @@
 
           .row(numero="6" titulo="Ambiente y accesibilidad").p-3
             p Es importante prestar especial atención a la decoración existente en el interior del local. ¿Qué estilo tiene la arquitectura y qué transmite el interior del edificio? Si se va a celebrar una gala, es probable que se necesite un espacio diferente al de una exposición. Cuanto menos coincida el ambiente con la sensación deseada para el evento (lujo, alta tecnología, etc.), más se tendrá que decorar para compensarlo.
-            p La accesibilidad se refiere a la posibilidad de que todas las personas, especialmente las que tienen necesidades especiales, puedan acceder al edificio y a sus instalaciones. De esa manera, antes de responder a esa pregunta, se debe saber quiénes son los asistentes y cuáles son sus necesidades. Probablemente se sabrá si habrá niños en el lugar de celebración, pero no se puede saber si habrá personas con otras necesidades especiales. En esta situación, revisar los eventos recientes de la organización pueden dar una idea de esto.
+            p La accesibilidad se refiere a la posibilidad de que todas las personas, especialmente las que tienen necesidades especiales, puedan acceder al edificio y a sus instalaciones. De esa manera, antes de responder a esa pregunta, se debe saber quiénes son los asistentes y cuáles son sus necesidades. Probablemente, se sabrá si habrá niños en el lugar de celebración, pero no se puede saber si habrá personas con otras necesidades especiales. En esta situación, revisar los eventos recientes de la organización pueden dar una idea de esto.
 
           .row(numero="7" titulo="Acústica").p-3
             p La acústica hace referencia a la forma en que el sonido se desplaza por el local. Un techo bajo hará que el local parezca acogedor, pero lo hará más ruidoso si está lleno. Por otro lado, un espacio grande producirá ecos, o lo que los arquitectos denominan "reverberación".
@@ -147,7 +147,7 @@
               p Cuando se organiza el mobiliario, se debe pensar en cómo se comunicará la gente entre sí cuando utilice esa disposición de asientos. Por ejemplo, si se planea un evento al aire libre, las barras y las sillas facilitarán
             .col-lg-6
               p el movimiento constante de los invitados detrás de ellas, y las pequeñas islas con asientos permitirán conversaciones más íntimas. Puede ser más fácil de lo que se esperaba con la ayuda de un plan de ubicación de mobiliario.
-              p El alquiler de mobiliario, tecnología y demás artículos de decoración es una solución rápida, cómoda y asequible para preparar un evento de cualquier índole, pues no solo facilita encontrar artículos coherentes con el tipo y estilo definido por el organizador y el cliente, sino que adicional a ello, facilita temas logísticos pues no se tiene en cuenta almacenamiento, desplazamientos ni colocación en los espacios requeridos. 
+              p El alquiler de mobiliario, tecnología y demás artículos de decoración es una solución rápida, cómoda y asequible para preparar un evento de cualquier índole, pues no solo facilita encontrar artículos coherentes con el tipo y estilo definido por el organizador y el cliente, sino que adicional a ello, facilita temas logísticos, pues no se tiene en cuenta almacenamiento, desplazamientos ni colocación en los espacios requeridos. 
 
 </template>
 

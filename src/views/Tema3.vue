@@ -53,7 +53,7 @@
               h5 Objetivo del evento
               p ¿Cuál es su contenido?
               p ¿Cuáles son las conclusiones que se pretenden obtener? 
-              p ¿El contenido del evento debe llevar a la gente a hacer que?
+              p ¿El contenido del evento, qué debe llevar hacer a la gente? 
               p ¿Debe inspirar, motivar o educar a los delegados sobre productos y servicios específicos?
 
         .crd.crd--avatarHorizontal.crd--medio-2.p-3
@@ -140,7 +140,7 @@
               figure
                 img.img-a.img-t(src="@/assets/curso/temas/tema3/img9.png", alt="alt")
             .col-lg-9
-              p De acuerdo con la norma técnica de la industria colombiana esta norma está diseñada para guiar a los talentos con respecto a eventos, congresos, exposiciones, salas de congresos y prácticas integradoras. Conduce al cumplimiento de los requisitos ambientales, sociales, culturales y económicos relacionados con el desarrollo sostenible.
+              p De acuerdo con la norma técnica de la industria colombiana, esta norma está diseñada para guiar a los talentos con respecto a eventos, congresos, exposiciones, salas de congresos y prácticas integradoras. Conduce al cumplimiento de los requisitos ambientales, sociales, culturales y económicos relacionados con el desarrollo sostenible.
               p Es una herramienta de aprendizaje que incluye, ejemplos, evaluación y recomendaciones que facilitarán la integración de requisitos ambientales, sociales, culturales y económicos en toda empresa de eventos, independientemente de su tamaño o nivel de calificación.
 
         .tarjeta.tarjeta-amarilla.p-4(titulo="NTS-TS 006-1")

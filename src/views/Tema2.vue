@@ -16,7 +16,7 @@
                 img.img-a.img-t(src="@/assets/curso/temas/tema2/img1.png", alt="alt")
             .col
               p La ficha técnica es un documento conciso con datos técnicos de un producto o servicio. El intercambio de estos datos técnicos es un paso importante en el proceso que conduce al comercio. Los compradores exigen datos técnicos detallados y una muestra para su análisis a fin de determinar la calidad del producto y servicio para asegurarse que cumple sus requisitos.
-              p.mt-3 #[strong Usualmente toda ficha técnica incluye los siguientes elementos clave.]
+              p.mt-3 #[strong Usualmente, toda ficha técnica incluye los siguientes elementos clave.]
  
 
 
@@ -87,7 +87,7 @@
               p.mt-3 Cualquier definición que pretenda explicar qué es una ficha técnica y para qué sirve, debe indicar la utilidad y uso en las especificaciones de un producto para su comercialización. #[strong Si bien una hoja de datos no es necesaria para las ventas, ayuda a una parte de la audiencia de una empresa a decidir comprar sus productos.]
 
     .row.mt-5
-      h4 #[i Tips] de una ficha técnic
+      h4 #[i Tips] de una ficha técnica
 
     p Presentar al público la información adecuada sobre los productos en una ficha técnica, tiene un amplio número de ventajas, entre las que se encuentran: 
 
