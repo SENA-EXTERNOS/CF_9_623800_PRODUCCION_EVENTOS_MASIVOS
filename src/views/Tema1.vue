@@ -97,7 +97,7 @@
         LineaTiempoD.color-primario.mt-5
           .row(numero="1" titulo="Ubicación").p-3
             p Una ubicación conveniente significa cosas diferentes para distintos eventos. En el caso de un evento con asistentes dentro de un rango geográfico limitado, puede tener sentido un lugar que se encuentre a una distancia razonable de los hogares o lugares de trabajo de la mayoría de los asistentes. Sin embargo, si muchos de los asistentes van a viajar desde fuera de la ciudad, será beneficioso celebrar el acto en un lugar cercano al aeropuerto o a sus hoteles. 
-            p Mejor aún, si los asistentes se alojan en un solo lugar, organizar el acto en ese hotel mitiga la necesidad de contemplar aspectos como parqueaderos, Valet Parking, traslados, incluso la posibilidad que los asistentes lleguen tarde.
+            p Mejor aún, si los asistentes se alojan en un solo lugar, organizar el acto en ese hotel mitiga la necesidad de contemplar aspectos como parqueaderos, <i>Valet Parking</i>, traslados, incluso la posibilidad que los asistentes lleguen tarde.
           .row(numero="2" titulo="Parqueadero").p-3
             p Encontrar un lugar con el parqueo de vehículos para eventos masivos es fundamental. Si no es el caso, es necesario, entonces, comprobar si hay lugares cercanos a los que los asistentes puedan acceder y utilizar. Si no hay disponibilidad en la zona, se deben tener en cuenta algunas alternativas:
             ul.lista-ul.mb-4
